@@ -1,3 +1,1 @@
-alert("Hello, World!!!");
-/* comment */
-console.log("1");
+const a = 1;
